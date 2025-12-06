@@ -12,6 +12,7 @@
         fill: #222222; 
         /* Anchor the text by its right edge for justification */
         text-anchor: end; 
+        letter-spacing: 2px;
       }
 
       /* --- ELEMENTS --- */
@@ -20,7 +21,7 @@
       .growth-line {
         stroke: #000000;
         /* Reduced width by 25% (from 12px to 9px) */
-        stroke-width: 5px;
+        stroke-width: 4px;
         stroke-linecap: round; 
         stroke-dasharray: 900;
         stroke-dashoffset: 900;
