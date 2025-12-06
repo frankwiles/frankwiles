@@ -9,3 +9,5 @@
   <img alt="Animated biography text about Frank" src="./frankwiles-about.svg">
 </picture>
 
+Hi Friend, you can learn more about me on my [personal homepage](https://frankwiles.com/about/) or [subscribe to my newsletter](https://buttondown.com/frankwiles). 
+
