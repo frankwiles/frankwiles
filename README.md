@@ -1,5 +1,7 @@
 ![Animated 'Frank Wiles' text](./frankwiles-thin.svg)
 
+# Hi there friend, I'm Frank! 
+
 <!--
 **frankwiles/frankwiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
