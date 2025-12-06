@@ -35,7 +35,7 @@
     
     <div xmlns="http://www.w3.org/1999/xhtml" class="html-container">
       
-      <p style="margin: 0; padding: 0 20px;">
+      <p style="margin: 0; padding: 0 5px;">
         I help companies solve complex business problems using Open Source software. 
         Most often using a combination of Python, Django, Javascript, PostgreSQL and 
         Kubernetes.
