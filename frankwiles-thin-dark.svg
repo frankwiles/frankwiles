@@ -9,7 +9,7 @@
         font-weight: 300;
         /* Smaller font size */
         font-size: 60px;
-        fill: #222222;
+        fill: #ffffff;            /* White text for dark mode */
         /* Anchor the text by its right edge for justification */
         text-anchor: end;
         letter-spacing: 2px;
@@ -19,7 +19,7 @@
 
       /* The horizontal line */
       .growth-line {
-        stroke: #000000;
+        stroke: #cccccc;          /* Light gray line for dark mode */
         /* Reduced width by 25% (from 12px to 9px) */
         stroke-width: 4px;
         stroke-linecap: round;
@@ -35,7 +35,6 @@
         animation: riseUp 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) 2.5s forwards;
       }
 
-      
       /* --- KEYFRAMES --- */
       @keyframes drawLine {
         to { stroke-dashoffset: 0; }

@@ -15,7 +15,7 @@
         font-weight: 300;
         font-size: 24px;         /* Adjusted slightly for paragraph readability */
         line-height: 1.5;        /* Good spacing between lines */
-        color: #222222;
+        color: #cccccc;          /* Light gray for dark mode */
         text-align: center;      /* Center the text alignment */
 
         /* Animation */
@@ -23,7 +23,6 @@
         animation: fadeToBlack 1.5s ease-out 3s forwards;
       }
 
-  
       /* --- Keyframes --- */
       @keyframes fadeToBlack {
         from { opacity: 0; }
@@ -33,15 +32,15 @@
   </defs>
 
   <foreignObject x="0" y="0" width="100%" height="100%">
-    
+
     <div xmlns="http://www.w3.org/1999/xhtml" class="html-container">
-      
+
       <p style="margin: 0; padding: 0 5px; text-align: left;">
-        I help companies solve difficult business problems using Open Source software. 
+        I help companies solve difficult business problems using Open Source software.
         Expert in building, scaling and maintaining complex web applications. Development
-        team therapist. Collector of flow. 
+        team therapist. Collector of flow.
       </p>
-      
+
     </div>
   </foreignObject>
 </svg>
