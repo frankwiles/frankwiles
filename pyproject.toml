@@ -1,0 +1,15 @@
+[project]
+name = "gh-readme-updater"
+version = "0.1.0"
+description = "Update GitHub README with latest blog posts from RSS feed"
+authors = [
+    {name = "Frank Wiles", email = "frank@revsys.com"}
+]
+dependencies = [
+    "feedparser>=6.0.10",
+    "requests>=2.31.0",
+]
+requires-python = ">=3.8"
+
+[tool.uv]
+dev-dependencies = []

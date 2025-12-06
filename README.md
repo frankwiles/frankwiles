@@ -17,4 +17,13 @@ occasional picture of my cooking.
 I'm the founder of [REVSYS](https:/www.revsys.com/) we help companies solve problems usually 
 with some mixture of Python, Django, Javascript, PostgreSQL, Kubernetes and magic. Er... I mean AI.   
 
+We're known for using our experience to deliver practical solutions that speed up your people, processes, and 
+projects. 
 
+<!-- RECENT_BLOG_POSTS_START -->
+* [Care and feeding of software](https://frankwiles.com/posts/care-and-feeding-of-software/) - November 30, 2025 - We need to stop doing big tech "modernization" projects as a concept. Puppies as a proxy for code.
+* [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/) - November 17, 2025 - Third-party applications are the unsung heroes of the Django ecosystem. Core Django covers a wide...
+* [Customize your IPython shell in Docker](https://frankwiles.com/posts/customize-ipython-docker/) - August 19, 2025 - You can heavily customize your IPython shell experience when using it inside Docker or in a Docker...
+* [Recent podcast appearances](https://frankwiles.com/posts/recent-podcasts-2025/) - July 22, 2025 - Frank Wiles' recent podcast appearances so far in 2025. Touching on topics such as Python, Django,...
+* [My CLI World](https://frankwiles.com/posts/my-cli-world/) - June 29, 2025 - Frank's current favorite CLI tools, configurations, workflows, and tips for developers and ops...
+<!-- RECENT_BLOG_POSTS_END -->
