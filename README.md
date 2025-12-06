@@ -20,6 +20,7 @@ with some mixture of Python, Django, Javascript, PostgreSQL, Kubernetes and magi
 We're known for using our experience to deliver practical solutions that speed up your people, processes, and 
 projects. 
 
+### Recent blog posts
 <!-- RECENT_BLOG_POSTS_START -->
 * [Care and feeding of software](https://frankwiles.com/posts/care-and-feeding-of-software/) - November 30, 2025 - We need to stop doing big tech "modernization" projects as a concept. Puppies as a proxy for code.
 * [Django Third-party App Ecosystem](https://frankwiles.com/posts/django-third-party-apps/) - November 17, 2025 - Third-party applications are the unsung heroes of the Django ecosystem. Core Django covers a wide...
