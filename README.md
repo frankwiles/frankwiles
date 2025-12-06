@@ -1,6 +1,6 @@
 ![Animated 'Frank Wiles' text](./frankwiles-thin.svg)
 
-I help companies solve complex business problems with Open Source software. 
+## I help companies solve complex business problems with Open Source software. 
 
 <!--
 **frankwiles/frankwiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
