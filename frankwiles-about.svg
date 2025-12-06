@@ -9,7 +9,7 @@
         align-items: center;     /* Vertically Center */
         height: 100%;            /* Fill the foreignObject */
         width: 100%;
-        
+
         /* Font Styling (Matching previous requests) */
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-weight: 300;
@@ -17,10 +17,17 @@
         line-height: 1.5;        /* Good spacing between lines */
         color: #222222;
         text-align: center;      /* Center the text alignment */
-        
+
         /* Animation */
         opacity: 0;
         animation: fadeToBlack 1.5s ease-out 3s forwards;
+      }
+
+      /* --- Dark Mode Support --- */
+      @media (prefers-color-scheme: dark) {
+        .html-container {
+          color: #cccccc; /* Light gray for dark mode */
+        }
       }
 
       /* --- Keyframes --- */
