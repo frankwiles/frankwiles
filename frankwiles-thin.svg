@@ -1,0 +1,61 @@
+<svg width="100%" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" style="background-color: #f4f4f4;">
+  <defs>
+    <style>
+      /* --- FONT STYLES (System Fonts Only) --- */
+      .fw-text {
+        /* Using standard thin system fonts */
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        /* 300 is usually the numeric value for "Thin" or "Light" */
+        font-weight: 300;
+        /* Smaller font size */
+        font-size: 60px;
+        fill: #222222; 
+        /* Anchor the text by its right edge for justification */
+        text-anchor: end; 
+      }
+
+      /* --- ELEMENTS --- */
+      
+      /* The horizontal line */
+      .growth-line {
+        stroke: #000000;
+        /* Reduced width by 25% (from 12px to 9px) */
+        stroke-width: 5px;
+        stroke-linecap: round; 
+        stroke-dasharray: 900;
+        stroke-dashoffset: 900;
+        animation: drawLine 2s ease-in-out 0.5s forwards;
+      }
+
+      /* The Text Group */
+      .text-container {
+        /* Start positioned well below the line so it's hidden by clip path */
+        transform: translateY(120px);
+        animation: riseUp 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) 2.5s forwards;
+      }
+
+      /* --- KEYFRAMES --- */
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+
+      @keyframes riseUp {
+        to { transform: translateY(0px); }
+      }
+      
+    </style>
+
+    <clipPath id="above-the-line">
+      <rect x="0" y="0" width="1000" height="200" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#above-the-line)">
+    <g class="text-container">
+      <text x="950" y="185" class="fw-text">FRANK WILES</text>
+    </g>
+  </g>
+
+  <line class="growth-line" x1="50" y1="200" x2="950" y2="200" />
+
+</svg>
