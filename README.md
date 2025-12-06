@@ -11,3 +11,7 @@
 
 Hi Friend, you can learn more about me on my [personal homepage](https://frankwiles.com/about/) or [subscribe to my newsletter](https://buttondown.com/frankwiles). 
 
+Happy to connect with you on [LinkedIn](https://www.linkedin.com/in/frankwiles/), [Mastodon](https://frankwiles.social/@frank), or [Bluesky](https://bsky.app/profile/fwiles.bsky.social).  I *mostly* post about tech things, but you also will be subjected to the 
+occasional picture of my cooking.  
+
+
